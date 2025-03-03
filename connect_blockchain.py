@@ -1,6 +1,6 @@
 from web3 import Web3  
 
-INFURA_URL = "https://mainnet.infura.io/v3/7993f877c17e4e2c9086396a5a5a635d"  
+INFURA_URL = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  
 web3 = Web3(Web3.HTTPProvider(INFURA_URL))  
 
 if web3.is_connected():  
