@@ -8,7 +8,7 @@ auth_token = "daf07be9228a6672bda9ce32184239e2"  # Replace with new token if reg
 twilio_number = "+13616007456"
 
 # Alert recipient (Replace with your phone number)
-recipient_number = "+919360656493"
+recipient_number = "xxxxxxxxxxx"
 
 # Message content
 message_body = "🚨 Fraud Alert! Suspicious transaction detected in DeFi monitoring system."
