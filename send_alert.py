@@ -1,11 +1,11 @@
 from twilio.rest import Client
 
 # Twilio credentials
-account_sid = "ACcbeb9a6bea6cfe2a97da661195f02870"
-auth_token = "daf07be9228a6672bda9ce32184239e2"  # Replace with new token if regenerated
+account_sid = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+auth_token = "xxxxxxxxxxxxxxxxxxxxxxx"  # Replace with new token if regenerated
 
 # Twilio phone number
-twilio_number = "+13616007456"
+twilio_number = "xxxxxxxxxxxxxxx"
 
 # Alert recipient (Replace with your phone number)
 recipient_number = "xxxxxxxxxxx"
