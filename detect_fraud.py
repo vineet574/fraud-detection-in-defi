@@ -7,10 +7,10 @@ INFURA_URL = "https://mainnet.infura.io/v3/7993f877c17e4e2c9086396a5a5a635d"
 web3 = Web3(Web3.HTTPProvider(INFURA_URL))
 
 # Twilio credentials
-ACCOUNT_SID = "ACcbeb9a6bea6cfe2a97da661195f02870"
-AUTH_TOKEN = "daf07be9228a6672bda9ce32184239e2"
-TWILIO_PHONE = "+13616007456"
-TO_PHONE = "+919360656493"  # Your phone number
+ACCOUNT_SID = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+AUTH_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+TWILIO_PHONE = "xxxxxxxxxxxx"
+TO_PHONE = "xxxxxxxxxxxx"  # Your phone number
 
 client = Client(ACCOUNT_SID, AUTH_TOKEN)
 
